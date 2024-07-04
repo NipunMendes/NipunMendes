@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nipun Mendes</h1>
-<h3 align="center">I'm based in Sri Lanka! & currently pursuing a Full-Stack roadmap</h3>
+<h1 align="center">Hi 👋, I'm Nipun Rajapakshe</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunmendes&label=Profile%20views&color=0e75b6&style=flat" alt="nipunmendes" /> </p>
 
